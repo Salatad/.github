@@ -4,6 +4,6 @@
 
 🙋‍♀️ A beta multi-Cryptocurrency project.
 
-🎈 Fun facts - Some cryptocurrencies are just meme-coins.
+🎈 Fun fact: some cryptocurrencies are just meme-coins.
 
 🍿 Grab a popcorn and a tea and watch.
