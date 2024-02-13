@@ -1,7 +1,9 @@
+<div align="center">
+  
+![Salata Icon](https://raw.githubusercontent.com/SalataSolana/public-assets/main/logo.png)
+
 # Salata
 
-<div align="center">
-![Salata Icon](https://raw.githubusercontent.com/SalataSolana/public-assets/main/logo.png)
 </div>
 
 🙋‍♀️ A beta multi-Cryptocurrency project.
